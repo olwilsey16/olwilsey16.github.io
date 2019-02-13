@@ -1,4 +1,4 @@
-## Welcome to Olivia's GitHub Pages
+## Welcome to Olivia's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/olwilsey16/olwilsey16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
